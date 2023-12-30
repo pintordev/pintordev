@@ -1,16 +1,53 @@
-### Hi there 👋
+<br>
 
-<!--
-**pintordev/pintordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://capsule-render.vercel.app/api?type=venom&height=150&color=46d296&text=pintor.dev&fontColor=000000&fontSize=50&animation=fadeIn&strokeWidth=0&stroke=46d296&desc=novice%20coder&descSize=14&descAlignY=70)
+<details markdown="1">
+  <summary>
+    <h3>👨🏻‍💻 Intro.</h3>
+  </summary>
 
-Here are some ideas to get you started:
+  ### 🛠 Tech Stack
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 🍚 mainly
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 🚀 at least once
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 💾 Recent Projects
+  <div align="center">
+    <a href="https://github.com/cojar/whats_hot_backend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cojar&repo=whats_hot_backend" width="47.4075%"/>
+    </a>
+    <a href="https://github.com/cojar/jigumiyak">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cojar&repo=jigumiyak" width="47.4075%"/>
+    </a>
+  </div>
+  
+
+  ### 📠 Contact Me
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pintor.dev@gmail.com"><img src="https://img.shields.io/badge/Mail-%23EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@pintor1331"><img src="https://img.shields.io/badge/Velog-%2320C997?style=flat&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@pintor.dev_study-log"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a> 
+  
+</details>
+
+### 🏅 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pintordev&rank_icon=github&theme=graywhite" width=55.411902% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintordev&layout=donut&theme=graywhite" width=39.088098%/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pintordev&theme=github-light&line=89e3bc&point=20c997&custom_title=Daily%20Contributions" width=94.815%/>
+</div>
+<div align="center">
+  <img src="https://github.com/pintordev/pintordev/blob/output/github-snake.svg" width="94.815%">
+</div>
+<br>
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpintordev&count_bg=%23555555&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=pintor.dev&edge_flat=false"/>
+</div>
+
+---
