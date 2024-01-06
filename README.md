@@ -33,6 +33,14 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cojar&repo=jigumiyak" width="47.4075%"/>
     </a>
   </div>
+  <div align="center">
+    <a href="https://github.com/pintordev/OGYM">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pintordev&repo=OGYM" width="47.4075%"/>
+    </a>
+    <a href="https://github.com/pintordev/SBB_PRACTICE">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pintordev&repo=SBB_PRACTICE" width="47.4075%"/>
+    </a>
+  </div>
 
 </details>
 
