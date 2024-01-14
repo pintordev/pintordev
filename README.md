@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
   #### &nbsp;&nbsp;&nbsp;&nbsp; 🚀 at least once
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat&logo=GitHub%20Actions&logoColor=white"/>
+
+  
 
   ### &nbsp;&nbsp; 📠 Contact Me
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
