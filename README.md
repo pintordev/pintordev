@@ -7,14 +7,17 @@
   </summary>
 
   ### &nbsp;&nbsp; 🛠 Tech Stack
-  #### &nbsp;&nbsp;&nbsp;&nbsp; 🍚 mainly
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 🍚 Mainly Used
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-  #### &nbsp;&nbsp;&nbsp;&nbsp; 🚀 at least once
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat&logo=GitHub%20Actions&logoColor=white"/>
-
+  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491083842?alt=media&token=e3688ff3-c44f-4c00-aba1-1550cefcaed6)](https://github.com/msdio/stackticon)
   
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 🚀 Have Used
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491148881?alt=media&token=8fd4e821-ac36-4ff3-a589-79f2d6c236a6)](https://github.com/msdio/stackticon)
+
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 🧰 Tool
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491200463?alt=media&token=03c3062e-3f6d-4e6c-8c25-b198c13e4655)](https://github.com/msdio/stackticon)
 
   ### &nbsp;&nbsp; 📠 Contact Me
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
