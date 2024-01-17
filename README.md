@@ -9,15 +9,15 @@
   ### &nbsp;&nbsp; 🛠 Tech Stack
   #### &nbsp;&nbsp;&nbsp;&nbsp; 🍚 Mainly Used
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491083842?alt=media&token=e3688ff3-c44f-4c00-aba1-1550cefcaed6)](https://github.com/msdio/stackticon)
+  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491083842?alt=media&token=e3688ff3-c44f-4c00-aba1-1550cefcaed6)]()
   
   #### &nbsp;&nbsp;&nbsp;&nbsp; 🚀 Have Used
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491148881?alt=media&token=8fd4e821-ac36-4ff3-a589-79f2d6c236a6)](https://github.com/msdio/stackticon)
+  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491148881?alt=media&token=8fd4e821-ac36-4ff3-a589-79f2d6c236a6)]()
 
   #### &nbsp;&nbsp;&nbsp;&nbsp; 🧰 Tool
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491200463?alt=media&token=03c3062e-3f6d-4e6c-8c25-b198c13e4655)](https://github.com/msdio/stackticon)
+  [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491482605?alt=media&token=82b570de-bdcc-4cd7-8c1e-101807bb5497)]()
 
   ### &nbsp;&nbsp; 📠 Contact Me
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
