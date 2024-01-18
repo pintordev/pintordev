@@ -19,11 +19,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1705491482605?alt=media&token=82b570de-bdcc-4cd7-8c1e-101807bb5497)](https://github.com/msdio/stackticon)
 
-  ### &nbsp;&nbsp; 📠 Contact Me
+  ### &nbsp;&nbsp; 📑 Blog
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pintor.dev@gmail.com"><img src="https://img.shields.io/badge/Mail-%23EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@pintor1331"><img src="https://img.shields.io/badge/Velog-%2320C997?style=flat&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@pintor.dev_study-log"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a> 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pintordev)](https://velog.io/@pintor1331/posts)
   
 </details>
 
