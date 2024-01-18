@@ -21,7 +21,7 @@
 
   ### &nbsp;&nbsp; 📑 Blog
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pintordev)](https://velog.io/@pintor1331/posts)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pintor1331)](https://velog.io/@pintor1331/posts)
   
 </details>
 
