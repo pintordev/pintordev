@@ -60,12 +60,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=pintordev&rank_icon=github&theme=graywhite" width=55.411902% />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintordev&layout=donut&theme=graywhite" width=39.088098%/>
   </div>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pintordev&theme=github-light&line=89e3bc&point=20c997&custom_title=Daily%20Contributions" width=94.815%/>
-  </div>
-  <div align="center">
-    <img src="https://github.com/pintordev/pintordev/blob/output/github-snake.svg" width="94.815%">
-  </div>
 
 </details>
 
