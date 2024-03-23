@@ -61,6 +61,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintordev&layout=donut&theme=graywhite" width=39.088098%/>
   </div>
 
+  <div align="center">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=pintor1331" width=40%/>
+  </div>
+
 </details>
 
 <br>
