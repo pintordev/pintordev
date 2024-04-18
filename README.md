@@ -33,19 +33,19 @@
     <h3>💾 Recent Projects</h3>
   </summary>
   <div align="center">
+    <a href="https://github.com/pintordev/purchase_reservation_system">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pintordev&repo=purchase_reservation_system" width="47.4075%"/>
+    </a>
     <a href="https://github.com/cojar/whats_hot_backend">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cojar&repo=whats_hot_backend" width="47.4075%"/>
     </a>
+  </div>
+  <div align="center">
     <a href="https://github.com/cojar/jigumiyak">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cojar&repo=jigumiyak" width="47.4075%"/>
     </a>
-  </div>
-  <div align="center">
     <a href="https://github.com/pintordev/OGYM">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=pintordev&repo=OGYM" width="47.4075%"/>
-    </a>
-    <a href="https://github.com/pintordev/SBB_PRACTICE">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pintordev&repo=SBB_PRACTICE" width="47.4075%"/>
     </a>
   </div>
 
