@@ -51,7 +51,7 @@
 
 </details>
 
-<details markdown="1" open>
+<!-- <details markdown="1" open>
   <summary>
     <h3>🏅 Stats</h3>
   </summary>
@@ -65,7 +65,7 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=pintor1331" width=40%/>
   </div>
 
-</details>
+</details> -->
 
 <br>
 <div align="center">
