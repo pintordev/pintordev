@@ -22,7 +22,7 @@
                   
   <br>
 
-  ## 📌 Currently                                                
+  ## 📌 Now                                               
    
   - 🌱 Learning Spring Boot & system design                      
   - 🔨 Building backend services
