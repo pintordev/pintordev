@@ -30,6 +30,7 @@
   <br>           
 
   <p align="right">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pintordev&title=hits" />              
+    <img src="https://komarev.com/ghpvc/?username=pintordev&style=flat-square&color=grey" />                                    
   </p>
+
 
