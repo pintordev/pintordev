@@ -43,10 +43,9 @@
 
 ## 📌 Now
 
-- 🌱 Learning Spring Boot & system design
-
-- 🔨 Building backend services
-    - [jigeumiyag](https://github.com/pintordev/jigeumiyag) — 건강식품 커머스 REST API 설계 및 구현 중
+- 🌱 Learning Spring Boot & server design
+- 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag);건강식품 커머스 REST API
+- ✍️ Posting... <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 <br>
 
