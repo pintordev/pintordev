@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[백준 1149] RGB거리](https://blog.pintor.dev/algorithm/baekjoon-1149)
+[[프로그래머스 12951] JadenCase 문자열 만들기](https://blog.pintor.dev/algorithm/programmers-12951)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
