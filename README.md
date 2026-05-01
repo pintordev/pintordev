@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 70129] 이진 변환 반복하기](https://blog.pintor.dev/algorithm/programmers-70129)
+[[프로그래머스 12924] 숫자의 표현](https://blog.pintor.dev/algorithm/programmers-12924)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
