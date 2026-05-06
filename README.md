@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 131701] 연속 부분 수열 합의 개수](https://blog.pintor.dev/algorithm/programmers-131701)
+[[프로그래머스 12985] 예상 대진표](https://blog.pintor.dev/algorithm/programmers-12985)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
