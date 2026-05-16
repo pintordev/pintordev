@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 49994] 방문 길이](https://blog.pintor.dev/algorithm/programmers-49994)
+[[프로그래머스 42626] 더 맵게](https://blog.pintor.dev/algorithm/programmers-42626)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
