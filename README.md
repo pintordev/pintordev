@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[컨테이너 기술과 Docker](https://blog.pintor.dev/infra/container-vs-docker)
+[[프로그래머스 17684] [3차] 압축](https://blog.pintor.dev/algorithm/programmers-17684)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
