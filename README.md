@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 92341] 주차 요금 계산](https://blog.pintor.dev/algorithm/programmers-92341)
+[[프로그래머스 42888] 오픈채팅방](https://blog.pintor.dev/algorithm/programmers-42888)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
