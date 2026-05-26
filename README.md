@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 68936] 쿼드압축 후 개수 세기](https://blog.pintor.dev/algorithm/programmers-68936)
+[[프로그래머스 42883] 큰 수 만들기](https://blog.pintor.dev/algorithm/programmers-42883)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
