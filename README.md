@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 86971] 전력망을 둘로 나누기](https://blog.pintor.dev/algorithm/programmers-86971)
+[[프로그래머스 155651] 호텔 대실](https://blog.pintor.dev/algorithm/programmers-155651)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
