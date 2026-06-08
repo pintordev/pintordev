@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 169199] 리코쳇 로봇](https://blog.pintor.dev/algorithm/programmers-169199)
+[[프로그래머스 12899] 124 나라의 숫자](https://blog.pintor.dev/algorithm/programmers-12899)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
