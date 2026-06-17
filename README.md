@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로젝트 회고] MoNew 백엔드 프로젝트를 마치며](https://blog.pintor.dev/log/monew-retrospective)
+[[프로그래머스 81302] 거리두기 확인하기](https://blog.pintor.dev/algorithm/programmers-81302)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
