@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 81302] 거리두기 확인하기](https://blog.pintor.dev/algorithm/programmers-81302)
+[[프로그래머스 12905] 가장 큰 정사각형 찾기](https://blog.pintor.dev/algorithm/programmers-12905)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
