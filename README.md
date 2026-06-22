@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 172927] 광물 캐기](https://blog.pintor.dev/algorithm/programmers-172927)
+[AWS RDS vs EC2 직접 설치: 관리형 데이터베이스의 이점과 한계](https://blog.pintor.dev/infra/aws-rds)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
