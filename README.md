@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[AWS RDS vs EC2 직접 설치: 관리형 데이터베이스의 이점과 한계](https://blog.pintor.dev/infra/aws-rds)
+[[프로그래머스 388353] 지게차와 크레인](https://blog.pintor.dev/algorithm/programmers-388353)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
