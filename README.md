@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[세션 기반 인증과 토큰 기반 인증의 차이점과 각각의 보안 고려사항](https://blog.pintor.dev/dev/session-vs-token-auth)
+[[프로그래머스 42890] 후보키](https://blog.pintor.dev/algorithm/programmers-42890)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
