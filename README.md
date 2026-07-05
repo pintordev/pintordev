@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 181187] 두 원 사이의 정수 쌍](https://blog.pintor.dev/algorithm/programmers-181187)
+[[프로그래머스 181188] 요격 시스템](https://blog.pintor.dev/algorithm/programmers-181188)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
