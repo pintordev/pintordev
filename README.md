@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 340211] 충돌위험 찾기](https://blog.pintor.dev/algorithm/programmers-340211)
+[@Cacheable, @CachePut, @CacheEvict 차이와 실무 사용 기준](https://blog.pintor.dev/dev/spring-cache-annotations)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
