@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[전송 계층에서 TCP와 UDP의 차이](https://blog.pintor.dev/dev/tcp-vs-udp)
+[[프로그래머스 389480] 완전범죄](https://blog.pintor.dev/algorithm/programmers-389480)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
