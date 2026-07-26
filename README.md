@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 468372] 리프 노드 수 최대화](https://blog.pintor.dev/algorithm/programmers-468372)
+[[프로그래머스 468379] 선인장 숨기기](https://blog.pintor.dev/algorithm/programmers-468379)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
