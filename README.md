@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 42627] 디스크 컨트롤러](https://blog.pintor.dev/algorithm/programmers-42627)
+[[프로그래머스 12904] 가장 긴 팰린드롬](https://blog.pintor.dev/algorithm/programmers-12904)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
