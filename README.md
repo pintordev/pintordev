@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[InnoDB, MySQL, PostgreSQL 정리](https://blog.pintor.dev/dev/innodb-mysql-postgresql)
+[[프로그래머스 12907] 거스름돈](https://blog.pintor.dev/algorithm/programmers-12907)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
