@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 12942] 최적의 행렬 곱셈](https://blog.pintor.dev/algorithm/programmers-12942)
+[[프로그래머스 258705] 산 모양 타일링](https://blog.pintor.dev/algorithm/programmers-258705)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
