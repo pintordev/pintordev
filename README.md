@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 389481] 봉인된 주문](https://blog.pintor.dev/algorithm/programmers-389481)
+[[프로그래머스 76503] 모두 0으로 만들기](https://blog.pintor.dev/algorithm/programmers-76503)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
