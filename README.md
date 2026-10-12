@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[[프로그래머스 131702] 고고학 최고의 발견](https://blog.pintor.dev/algorithm/programmers-131702)
+[데이터베이스 락(Lock) 정리](https://blog.pintor.dev/dev/database-lock)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
