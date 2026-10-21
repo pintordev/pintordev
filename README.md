@@ -46,7 +46,7 @@
 - 🌱 Learning Spring Boot & server design
 - 🔨 Building [jigeumiyag](https://github.com/pintordev/jigeumiyag); 건강식품 커머스 REST API
 - ✍️ Posting... <!-- BLOG-POST-LIST:START -->
-[운영체제 메모리 관리 정리](https://blog.pintor.dev/dev/os-memory-management)
+[[프로그래머스 468381] 기차 선로](https://blog.pintor.dev/algorithm/programmers-468381)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
